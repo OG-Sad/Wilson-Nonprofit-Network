@@ -1,0 +1,61 @@
+@media screen and (max-width: 650px) {
+	#{
+		background: url("") no-repeat 50% 50% fixed; 
+  		background-size: cover;
+  		-moz-background-size: cover;
+  		-o-background-size: cover;
+  		-webkit-background-size: cover;
+	}
+
+	#photospace,#textspace1 {
+		width:90%;
+	}
+
+	#img1 {
+		width: 90%;
+		margin: 2.5%;
+		
+	}
+
+	#textspace45 {
+		width: 90%;
+		margin: 60% 5% 5% 5%;
+	}
+
+	#powersvid {
+		width: 90%;
+		margin: 10% 5% 5% 5%;
+	}
+
+
+	#photospace5 {
+		width: 90%;
+	}
+
+	#headis {
+		width: 90%;
+	}
+
+	#{
+		background: url("") no-repeat 50% 50% fixed; 
+  		background-size: cover;
+  		-moz-background-size: cover;
+  		-o-background-size: cover;
+  		-webkit-background-size: cover;
+	}
+
+	#textspacepage8 {
+		margin: -58% 5% 5% 5%;
+	}
+
+	#textspacepage6 {
+		margin: -58% 5% 5% 5%;
+	}
+
+	#stuffing {
+		width: 120%;
+		margin: 10% 5% 5% 30%;
+		
+	}
+
+}
